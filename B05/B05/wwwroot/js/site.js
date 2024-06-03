@@ -10,9 +10,13 @@
     });
 
     soundIcons.forEach(icon => {
-        icon.addEventListener('mouseenter', function() {
-            const sound = new Audio(this.dataset.sound);
-            sound.play();
+        icon.addEventListener('mouseenter', (e) => {
+            const soundSrc = e.target.getAttribute('data-sound');
+            const audio = new Audio(soundSrc);
+            audio.play();
+            e.target.addEventListener('mouseleave', () => {
+                audio.pause();
+            });
         });
     });
 

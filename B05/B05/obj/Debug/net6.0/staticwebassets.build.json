@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OA89vlcSFt4XIMV6tqB66UcMljZ3z2ooQaID4wPHlCo=",
+  "Hash": "ZPXpzyzl662Ji3iQ11YH/gUeemLdTspjLlYe+Hj6j7c=",
   "Source": "B05",
   "BasePath": "_content/B05",
   "Mode": "Default",
@@ -1190,12 +1190,12 @@
       "OriginalItemSpec": "wwwroot\\slike\\violina.jpg"
     },
     {
-      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\cat.mp3",
+      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\cat.mp3",
       "SourceId": "B05",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\",
       "BasePath": "_content/B05",
-      "RelativePath": "zvukovi/cat.mp3",
+      "RelativePath": "sounds/cat.mp3",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\zvukovi\\cat.mp3"
+      "OriginalItemSpec": "wwwroot\\sounds\\cat.mp3"
     },
     {
-      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\chicken.mp3",
+      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\chicken.mp3",
       "SourceId": "B05",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\",
       "BasePath": "_content/B05",
-      "RelativePath": "zvukovi/chicken.mp3",
+      "RelativePath": "sounds/chicken.mp3",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\zvukovi\\chicken.mp3"
+      "OriginalItemSpec": "wwwroot\\sounds\\chicken.mp3"
     },
     {
-      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\cow.mp3",
+      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\cow.mp3",
       "SourceId": "B05",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\",
       "BasePath": "_content/B05",
-      "RelativePath": "zvukovi/cow.mp3",
+      "RelativePath": "sounds/cow.mp3",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\zvukovi\\cow.mp3"
+      "OriginalItemSpec": "wwwroot\\sounds\\cow.mp3"
     },
     {
-      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\dog.mp3",
+      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\dog.mp3",
       "SourceId": "B05",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\",
       "BasePath": "_content/B05",
-      "RelativePath": "zvukovi/dog.mp3",
+      "RelativePath": "sounds/dog.mp3",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,15 +1255,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\zvukovi\\dog.mp3"
+      "OriginalItemSpec": "wwwroot\\sounds\\dog.mp3"
     },
     {
-      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\horse.mp3",
+      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\horse.mp3",
       "SourceId": "B05",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\",
       "BasePath": "_content/B05",
-      "RelativePath": "zvukovi/horse.mp3",
+      "RelativePath": "sounds/horse.mp3",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1272,15 +1272,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\zvukovi\\horse.mp3"
+      "OriginalItemSpec": "wwwroot\\sounds\\horse.mp3"
     },
     {
-      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\sheep.mp3",
+      "Identity": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\sheep.mp3",
       "SourceId": "B05",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\",
       "BasePath": "_content/B05",
-      "RelativePath": "zvukovi/sheep.mp3",
+      "RelativePath": "sounds/sheep.mp3",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,7 +1289,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\zvukovi\\sheep.mp3"
+      "OriginalItemSpec": "wwwroot\\sounds\\sheep.mp3"
     }
   ]
 }

@@ -273,28 +273,28 @@
       "PackagePath": "staticwebassets\\slike\\violina.jpg"
     },
     {
-      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\cat.mp3",
-      "PackagePath": "staticwebassets\\zvukovi\\cat.mp3"
+      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\cat.mp3",
+      "PackagePath": "staticwebassets\\sounds\\cat.mp3"
     },
     {
-      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\chicken.mp3",
-      "PackagePath": "staticwebassets\\zvukovi\\chicken.mp3"
+      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\chicken.mp3",
+      "PackagePath": "staticwebassets\\sounds\\chicken.mp3"
     },
     {
-      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\cow.mp3",
-      "PackagePath": "staticwebassets\\zvukovi\\cow.mp3"
+      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\cow.mp3",
+      "PackagePath": "staticwebassets\\sounds\\cow.mp3"
     },
     {
-      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\dog.mp3",
-      "PackagePath": "staticwebassets\\zvukovi\\dog.mp3"
+      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\dog.mp3",
+      "PackagePath": "staticwebassets\\sounds\\dog.mp3"
     },
     {
-      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\horse.mp3",
-      "PackagePath": "staticwebassets\\zvukovi\\horse.mp3"
+      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\horse.mp3",
+      "PackagePath": "staticwebassets\\sounds\\horse.mp3"
     },
     {
-      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\zvukovi\\sheep.mp3",
-      "PackagePath": "staticwebassets\\zvukovi\\sheep.mp3"
+      "Id": "C:\\Users\\lara\\Desktop\\B05\\B05\\B05\\wwwroot\\sounds\\sheep.mp3",
+      "PackagePath": "staticwebassets\\sounds\\sheep.mp3"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.B05.Microsoft.AspNetCore.StaticWebAssets.props",

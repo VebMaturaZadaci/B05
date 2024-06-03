@@ -7,8 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\zvukovi\" />
+    <Folder Include="wwwroot\sounds\" />
     <Folder Include="wwwroot\slike\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\sounds\cat.mp3" />
+    <None Include="wwwroot\sounds\chicken.mp3" />
+    <None Include="wwwroot\sounds\cow.mp3" />
+    <None Include="wwwroot\sounds\dog.mp3" />
+    <None Include="wwwroot\sounds\horse.mp3" />
+    <None Include="wwwroot\sounds\sheep.mp3" />
   </ItemGroup>
 
 </Project>
