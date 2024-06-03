@@ -1,10 +1,50 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Pocetna";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<p class="naslov">Звуци инструмената</p>
+
+<div class="slider">
+    <div class="kultura">Музичка култура</div>
+    <div>
+        <table class="tabela">
+            <tr>
+                <th>Назив инструмента</th>
+                <th>Слика инструмента</th>
+                <th>Звук инструмента</th>
+            </tr>
+            <tr>
+                <td>Гитара</td>
+                <td><img src="~/slike/gitara.jpg" alt="Гитара" class="instrument-image" data-url="https://sr.wikipedia.org/wiki/Гитара"></td>
+                <td><img src="~/slike/speaker.png" alt="Звук Гитара" class="sound-icon" data-sound="sounds/drums.mp3"><br><a href="#" class="more-info">Сазнај више</a></td>
+            </tr>
+            <tr>
+                <td>Виолина</td>
+                <td><img src="~/slike/violina.jpg" alt="Виолина" class="instrument-image" data-url="https://sr.wikipedia.org/wiki/Виолина"></td>
+                <td><img src="~/slike/speaker.png" alt="Звук Виолина" class="sound-icon" data-sound="sounds/violin.mp3"><br><a href="#" class="more-info">Сазнај више</a></td>
+            </tr>
+            <tr>
+                <td>Клавир</td>
+                <td><img src="~/slike/klavir.jpg" alt="Клавир" class="instrument-image" data-url="https://sr.wikipedia.org/wiki/Клавир"></td>
+                <td><img src="~/slike/speaker.png" alt="Звук Клавир" class="sound-icon" data-sound="sounds/piano.mp3"><br><a href="#" class="more-info">Сазнај више</a></td>
+            </tr>
+            <tr>
+                <td>Бубњеви</td>
+                <td><img src="~/slike/bubanj.jpg" alt="Бубњеви" class="instrument-image" data-url="https://sr.wikipedia.org/wiki/Бубњеви"></td>
+                <td><img src="~/slike/speaker.png" alt="Звук Бубњеви" class="sound-icon" data-sound="sounds/drums.mp3"><br><a href="#" class="more-info">Сазнај више</a></td>
+            </tr>
+            <tr>
+                <td>Хармоника</td>
+                <td><img src="~/slike/harmonika.jpg" alt="Хармоника" class="instrument-image" data-url="https://sr.wikipedia.org/wiki/Хармоника"></td>
+                <td><img src="~/slike/speaker.png" alt="Звук Хармоника" class="sound-icon" data-sound="sounds/accordion.mp3"><br><a href="#" class="more-info">Сазнај више</a></td>
+            </tr>
+            <tr>
+                <td>Контрафагот</td>
+                <td><img src="~/slike/kontrafagot.jpg" alt="Контрафагот" class="instrument-image" data-url="https://sr.wikipedia.org/wiki/Контрафагот"></td>
+                <td><img src="~/slike/speaker.png" alt="Звук Контрафагот" class="sound-icon" data-sound="sounds/contrabassoon.mp3"><br><a href="#" class="more-info">Сазнај више</a></td>
+            </tr>
+        </table>
+    </div>
 </div>
