@@ -9,21 +9,4 @@
         });
     });
 
-    soundIcons.forEach(icon => {
-        icon.addEventListener('mouseenter', (e) => {
-            const soundSrc = e.target.getAttribute('data-sound');
-            const audio = new Audio(soundSrc);
-            audio.play();
-            e.target.addEventListener('mouseleave', () => {
-                audio.pause();
-            });
-        });
-    });
-
-    moreInfoLinks.forEach(link => {
-        link.addEventListener('click', function(event) {
-            event.preventDefault();
-            alert('Додатне информације о групи инструмената.');
-        });
-    });
 });
